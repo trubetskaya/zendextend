@@ -21,7 +21,7 @@ namespace Lib {
                 // Configuration for service `doctrine.driver.orm_default` service
                 'ext_entity' => [
                     'class' => Driver\AnnotationDriver::class,
-                    'paths' => __DIR__ . '/../src/Entity'
+                    'paths' => __DIR__ . '/../src/Lib/Entity'
                 ],
 
                 // Configuration for service `doctrine.driver.orm_default` service
