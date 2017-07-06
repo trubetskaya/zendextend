@@ -1,0 +1,22 @@
+{
+    "name": "zendextend/zendextend",
+    "description": "Extended Zend Framework 3",
+    "minimum-stability": "dev",
+    "type": "library",
+    "keywords": [ "framework", "library" ],
+    "homepage": "http://",
+    "license": "BSD-3-Clause",
+    "require-dev": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-0": {
+            "Lib\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-0": {
+            "LibTest\\": "tests/"
+        }
+    }
+}
