@@ -1,6 +1,6 @@
 {
     "name": "zendextend/zendextend",
-    "description": "Extended Zend Framework 3",
+    "description": "Zend Framework 3 Ext",
     "minimum-stability": "dev",
     "type": "library",
     "keywords": [ "framework", "library" ],
